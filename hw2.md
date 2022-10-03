@@ -9,3 +9,6 @@ gantt
     section Task 2
     任務分配 :t2 , after t1 , 4d
 ```
+---
+![PERT/CPM圖](PERT_CPM.jpg "PERT_CPM")
+### 關鍵路徑:1→3→5→7→10→11
