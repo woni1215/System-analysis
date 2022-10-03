@@ -9,23 +9,23 @@ gantt
     section Task 2
     任務分配 :t2 , after t1 , 4d
     section Task 3
-    任務分配 :t3 , after t1 , 17d
+    取得硬體 :t3 , after t1 , 17d
     section Task 4
-    任務分配 :t4 , after t2 , 70d
+    程式開發 :t4 , after t2 , 70d
     section Task 5
-    任務分配 :t5 , after t3 , 10d
+    安裝硬體 :t5 , after t3 , 10d
     section Task 6
-    任務分配 :t6 , after t4 , 30d
+    程式測試 :t6 , after t4 , 30d
     section Task 7
-    任務分配 :t7 , after t5 , 25d
+    撰寫使用手冊 :t7 , after t5 , 25d
     section Task 8
-    任務分配 :t8 , after t5 , 20d
+    轉換檔案 :t8 , after t5 , 20d
     section Task 9
-    任務分配 :t9 , after t6 , 25d
+    系統測試 :t9 , after t6 , 25d
     section Task 10
-    任務分配 :t10 , after t8 , 20d
+    使用者訓練 :t10 , after t8 , 20d
     section Task 11
-    任務分配 :t11 , after t10 , 25d
+    使用者測試 :t11 , after t10 , 25d
 ```
 ---
 ![PERT/CPM圖](PERT_CPM.jpg "PERT_CPM")
